@@ -37,7 +37,10 @@ export default async ({
           {parsedData.items.map((item, index) => (
             <div key={item.question}>
               <p className="font-bold">
-                {index + 1}: {item.question}
+                {item.question.startsWith(`${index + 1}`)
+                  ? ''
+                  : `${index + 1}. `}{' '}
+                {item.question}
               </p>
 
               <ul className="!p-0 m-2">
