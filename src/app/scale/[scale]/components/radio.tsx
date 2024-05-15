@@ -1,34 +1,29 @@
 'use client'
-import {
-  atom,
-  useAtom,
-  useAtomValue,
-  useSetAtom,
-  useStore,
-  type PrimitiveAtom,
-} from 'jotai'
+import { useAtomValue, useSetAtom } from 'jotai'
 import { selectAtom } from 'jotai/utils'
 import { useMemo, type FC } from 'react'
-import { getScaleAtom, scaleAtomsMap } from '../atoms'
+import { getScaleAtom } from '../atoms'
 
 export const ScaleRadio: FC<{
   scaleName: string
   fieldIndex: number
+  optionIndex: number
   value: number
-}> = ({ fieldIndex, scaleName, value }) => {
+}> = ({ fieldIndex, scaleName, value, optionIndex }) => {
   const scaleAtom = getScaleAtom(scaleName)
 
   const setValues = useSetAtom(scaleAtom)
   const checked = useAtomValue(
     useMemo(
       () => selectAtom(scaleAtom, (values) => values[fieldIndex] === value),
-      [],
+      [fieldIndex, scaleAtom, value],
     ),
   )
   return (
     <input
       name={`${fieldIndex}`}
       type="radio"
+      id={`${scaleName}-${fieldIndex}-${optionIndex}`}
       className="radio radio-sm radio-primary"
       key={value}
       checked={checked}

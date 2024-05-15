@@ -44,15 +44,18 @@ export default async ({
               </p>
 
               <ul className="!p-0 m-2">
-                {item.options.map((option) => {
+                {item.options.map((option, optionIndex) => {
                   return (
                     <li className="flex items-center gap-2" key={option.value}>
                       <ScaleRadio
                         fieldIndex={index}
                         scaleName={scale}
                         value={option.value}
+                        optionIndex={optionIndex}
                       ></ScaleRadio>
-                      {option.text}
+                      <label htmlFor={`${scale}-${index}-${optionIndex}`}>
+                        {option.text}
+                      </label>
                     </li>
                   )
                 })}
