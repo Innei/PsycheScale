@@ -1,0 +1,483 @@
+{
+  "name": "Beck Depression Inventory (BDI)",
+  "type": "Depression",
+  "items": [
+    {
+      "question": "1. Sadness",
+      "options": [
+        {
+          "value": 0,
+          "text": "I do not feel sad."
+        },
+        {
+          "value": 1,
+          "text": "I feel sad."
+        },
+        {
+          "value": 2,
+          "text": "I am sad all the time and I can't snap out of it."
+        },
+        {
+          "value": 3,
+          "text": "I am so sad and unhappy that I can't stand it."
+        }
+      ]
+    },
+    {
+      "question": "2. Pessimism",
+      "options": [
+        {
+          "value": 0,
+          "text": "I am not particularly discouraged about the future."
+        },
+        {
+          "value": 1,
+          "text": "I feel discouraged about the future."
+        },
+        {
+          "value": 2,
+          "text": "I feel I have nothing to look forward to."
+        },
+        {
+          "value": 3,
+          "text": "I feel the future is hopeless and that things cannot improve."
+        }
+      ]
+    },
+    {
+      "question": "3. Past Failure",
+      "options": [
+        {
+          "value": 0,
+          "text": "I do not feel like a failure."
+        },
+        {
+          "value": 1,
+          "text": "I feel I have failed more than the average person."
+        },
+        {
+          "value": 2,
+          "text": "As I look back, I see a lot of failures."
+        },
+        {
+          "value": 3,
+          "text": "I feel I am a complete failure as a person."
+        }
+      ]
+    },
+    {
+      "question": "4. Loss of Pleasure",
+      "options": [
+        {
+          "value": 0,
+          "text": "I get as much pleasure as I ever did from the things I enjoy."
+        },
+        {
+          "value": 1,
+          "text": "I don't enjoy things as much as I used to."
+        },
+        {
+          "value": 2,
+          "text": "I get very little pleasure from the things I used to enjoy."
+        },
+        {
+          "value": 3,
+          "text": "I can't get any pleasure from the things I used to enjoy."
+        }
+      ]
+    },
+    {
+      "question": "5. Guilty Feelings",
+      "options": [
+        {
+          "value": 0,
+          "text": "I don't feel particularly guilty."
+        },
+        {
+          "value": 1,
+          "text": "I feel guilty over many things I have done or should have done."
+        },
+        {
+          "value": 2,
+          "text": "I feel quite guilty most of the time."
+        },
+        {
+          "value": 3,
+          "text": "I feel guilty all of the time."
+        }
+      ]
+    },
+    {
+      "question": "6. Punishment Feelings",
+      "options": [
+        {
+          "value": 0,
+          "text": "I don't feel I am being punished."
+        },
+        {
+          "value": 1,
+          "text": "I feel I may be punished."
+        },
+        {
+          "value": 2,
+          "text": "I expect to be punished."
+        },
+        {
+          "value": 3,
+          "text": "I feel I am being punished."
+        }
+      ]
+    },
+    {
+      "question": "7. Self-Dislike",
+      "options": [
+        {
+          "value": 0,
+          "text": "I feel the same about myself as ever."
+        },
+        {
+          "value": 1,
+          "text": "I have lost confidence in myself."
+        },
+        {
+          "value": 2,
+          "text": "I am disappointed in myself."
+        },
+        {
+          "value": 3,
+          "text": "I dislike myself."
+        }
+      ]
+    },
+    {
+      "question": "8. Self-Criticalness",
+      "options": [
+        {
+          "value": 0,
+          "text": "I don't criticize or blame myself more than usual."
+        },
+        {
+          "value": 1,
+          "text": "I am more critical of myself than I used to be."
+        },
+        {
+          "value": 2,
+          "text": "I criticize myself for all of my faults."
+        },
+        {
+          "value": 3,
+          "text": "I blame myself for everything bad that happens."
+        }
+      ]
+    },
+    {
+      "question": "9. Suicidal Thoughts or Wishes",
+      "options": [
+        {
+          "value": 0,
+          "text": "I don't have any thoughts of killing myself."
+        },
+        {
+          "value": 1,
+          "text": "I have thoughts of killing myself, but I would not carry them out."
+        },
+        {
+          "value": 2,
+          "text": "I would like to kill myself."
+        },
+        {
+          "value": 3,
+          "text": "I would kill myself if I had the chance."
+        }
+      ]
+    },
+    {
+      "question": "10. Crying",
+      "options": [
+        {
+          "value": 0,
+          "text": "I don't cry any more than usual."
+        },
+        {
+          "value": 1,
+          "text": "I cry more now than I used to."
+        },
+        {
+          "value": 2,
+          "text": "I cry all the time now."
+        },
+        {
+          "value": 3,
+          "text": "I used to be able to cry, but now I can't cry even though I want to."
+        }
+      ]
+    },
+    {
+      "question": "11. Agitation",
+      "options": [
+        {
+          "value": 0,
+          "text": "I am no more restless or wound up than usual."
+        },
+        {
+          "value": 1,
+          "text": "I feel more restless or wound up than usual."
+        },
+        {
+          "value": 2,
+          "text": "I am so restless or agitated that it's hard to stay still."
+        },
+        {
+          "value": 3,
+          "text": "I am so restless or agitated that I have to keep moving or doing something."
+        }
+      ]
+    },
+    {
+      "question": "12. Loss of Interest",
+      "options": [
+        {
+          "value": 0,
+          "text": "I have not lost interest in other people or activities."
+        },
+        {
+          "value": 1,
+          "text": "I am less interested in other people or things than before."
+        },
+        {
+          "value": 2,
+          "text": "I have lost most of my interest in other people or things."
+        },
+        {
+          "value": 3,
+          "text": "It's hard to get interested in anything."
+        }
+      ]
+    },
+    {
+      "question": "13. Indecisiveness",
+      "options": [
+        {
+          "value": 0,
+          "text": "I make decisions about as well as ever."
+        },
+        {
+          "value": 1,
+          "text": "I find it more difficult to make decisions than usual."
+        },
+        {
+          "value": 2,
+          "text": "I have much greater difficulty in making decisions than I used to."
+        },
+        {
+          "value": 3,
+          "text": "I have trouble making any decisions."
+        }
+      ]
+    },
+    {
+      "question": "14. Worthlessness",
+      "options": [
+        {
+          "value": 0,
+          "text": "I do not feel I am worthless."
+        },
+        {
+          "value": 1,
+          "text": "I don't consider myself as worthwhile and useful as I used to."
+        },
+        {
+          "value": 2,
+          "text": "I feel more worthless as compared to others."
+        },
+        {
+          "value": 3,
+          "text": "I feel utterly worthless."
+        }
+      ]
+    },
+    {
+      "question": "15. Loss of Energy",
+      "options": [
+        {
+          "value": 0,
+          "text": "I have as much energy as ever."
+        },
+        {
+          "value": 1,
+          "text": "I have less energy than I used to have."
+        },
+        {
+          "value": 2,
+          "text": "I don't have enough energy to do very much."
+        },
+        {
+          "value": 3,
+          "text": "I don't have enough energy to do anything."
+        }
+      ]
+    },
+    {
+      "question": "16. Changes in Sleeping Pattern",
+      "options": [
+        {
+          "value": 0,
+          "text": "I have not experienced any change in my sleeping pattern."
+        },
+        {
+          "value": 1,
+          "text": "I sleep somewhat more than usual."
+        },
+        {
+          "value": 1,
+          "text": "I sleep somewhat less than usual."
+        },
+        {
+          "value": 2,
+          "text": "I sleep a lot more than usual."
+        },
+        {
+          "value": 2,
+          "text": "I sleep a lot less than usual."
+        },
+        {
+          "value": 3,
+          "text": "I sleep most of the day."
+        },
+        {
+          "value": 3,
+          "text": "I wake up 1-2 hours early and can't get back to sleep."
+        }
+      ]
+    },
+    {
+      "question": "17. Irritability",
+      "options": [
+        {
+          "value": 0,
+          "text": "I am no more irritable than usual."
+        },
+        {
+          "value": 1,
+          "text": "I am more irritable than usual."
+        },
+        {
+          "value": 2,
+          "text": "I am much more irritable than usual."
+        },
+        {
+          "value": 3,
+          "text": "I am irritable all the time."
+        }
+      ]
+    },
+    {
+      "question": "18. Changes in Appetite",
+      "options": [
+        {
+          "value": 0,
+          "text": "I have not experienced any change in my appetite."
+        },
+        {
+          "value": 1,
+          "text": "My appetite is somewhat less than usual."
+        },
+        {
+          "value": 1,
+          "text": "My appetite is somewhat greater than usual."
+        },
+        {
+          "value": 2,
+          "text": "My appetite is much less than before."
+        },
+        {
+          "value": 2,
+          "text": "My appetite is much greater than usual."
+        },
+        {
+          "value": 3,
+          "text": "I have no appetite at all."
+        },
+        {
+          "value": 3,
+          "text": "I crave food all the time."
+        }
+      ]
+    },
+    {
+      "question": "19. Concentration Difficulty",
+      "options": [
+        {
+          "value": 0,
+          "text": "I can concentrate as well as ever."
+        },
+        {
+          "value": 1,
+          "text": "I can't concentrate as well as usual."
+        },
+        {
+          "value": 2,
+          "text": "It's hard to keep my mind on anything for very long."
+        },
+        {
+          "value": 3,
+          "text": "I find I can't concentrate on anything."
+        }
+      ]
+    },
+    {
+      "question": "20. Tiredness or Fatigue",
+      "options": [
+        {
+          "value": 0,
+          "text": "I am no more tired or fatigued than usual."
+        },
+        {
+          "value": 1,
+          "text": "I get more tired or fatigued more easily than usual."
+        },
+        {
+          "value": 2,
+          "text": "I am too tired or fatigued to do a lot of the things I used to do."
+        },
+        {
+          "value": 3,
+          "text": "I am too tired or fatigued to do most of the things I used to do."
+        }
+      ]
+    },
+    {
+      "question": "21. Loss of Interest in Sex",
+      "options": [
+        {
+          "value": 0,
+          "text": "I have not noticed any recent change in my interest in sex."
+        },
+        {
+          "value": 1,
+          "text": "I am less interested in sex than I used to be."
+        },
+        {
+          "value": 2,
+          "text": "I am much less interested in sex now."
+        },
+        {
+          "value": 3,
+          "text": "I have lost interest in sex completely."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      63
+    ],
+    "interpretation": {
+      "0-13": "Minimal depression",
+      "14-19": "Mild depression",
+      "20-28": "Moderate depression",
+      "29-63": "Severe depression"
+    }
+  }
+}

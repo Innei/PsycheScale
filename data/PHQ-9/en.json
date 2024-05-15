@@ -1,0 +1,208 @@
+{
+  "name": "Patient Health Questionnaire-9 (PHQ-9)",
+  "type": "Depression",
+  "items": [
+    {
+      "question": "1. Little interest or pleasure in doing things",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "2. Feeling down, depressed, or hopeless",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "3. Trouble falling or staying asleep, or sleeping too much",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "4. Feeling tired or having little energy",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "5. Poor appetite or overeating",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "6. Feeling bad about yourself — or that you are a failure or have let yourself or your family down",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "7. Trouble concentrating on things, such as reading the newspaper or watching television",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "8. Moving or speaking so slowly that other people could have noticed. Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    },
+    {
+      "question": "9. Thoughts that you would be better off dead or of hurting yourself in some way",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Several days"
+        },
+        {
+          "value": 2,
+          "text": "More than half the days"
+        },
+        {
+          "value": 3,
+          "text": "Nearly every day"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      27
+    ],
+    "interpretation": {
+      "0-4": "Minimal depression",
+      "5-9": "Mild depression",
+      "10-14": "Moderate depression",
+      "15-19": "Moderately severe depression",
+      "20-27": "Severe depression"
+    }
+  }
+}

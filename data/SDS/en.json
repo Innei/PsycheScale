@@ -1,0 +1,228 @@
+{
+  "name": "Self-Rating Depression Scale",
+  "type": "Depression Assessment",
+  "items": [
+    {
+      "question": "I feel down-hearted and blue.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "Morning is when I feel the best.",
+      "options": [
+        {
+          "value": 4,
+          "text": "A little of the time"
+        },
+        {
+          "value": 3,
+          "text": "Some of the time"
+        },
+        {
+          "value": 2,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 1,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I have crying spells or feel like it.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I have trouble sleeping at night.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I eat as much as I used to.",
+      "options": [
+        {
+          "value": 4,
+          "text": "A little of the time"
+        },
+        {
+          "value": 3,
+          "text": "Some of the time"
+        },
+        {
+          "value": 2,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 1,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I enjoy looking at, talking to, and being with attractive women/men.",
+      "options": [
+        {
+          "value": 4,
+          "text": "A little of the time"
+        },
+        {
+          "value": 3,
+          "text": "Some of the time"
+        },
+        {
+          "value": 2,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 1,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I notice that I am losing weight.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I have trouble with constipation.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "My heart beats faster than usual.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    },
+    {
+      "question": "I get tired for no reason.",
+      "options": [
+        {
+          "value": 1,
+          "text": "A little of the time"
+        },
+        {
+          "value": 2,
+          "text": "Some of the time"
+        },
+        {
+          "value": 3,
+          "text": "Good part of the time"
+        },
+        {
+          "value": 4,
+          "text": "Most of the time"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      20,
+      80
+    ],
+    "interpretation": {
+      "20-44": "Normal range",
+      "45-59": "Mildly depressed",
+      "60-69": "Moderately depressed",
+      "70-80": "Severely depressed"
+    }
+  }
+}

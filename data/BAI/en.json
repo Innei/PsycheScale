@@ -1,0 +1,471 @@
+{
+  "name": "Beck Anxiety Inventory",
+  "type": "Anxiety Assessment",
+  "items": [
+    {
+      "question": "Numbness or tingling",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Feeling hot",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Wobbliness in legs",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Unable to relax",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Fear of the worst happening",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Dizzy or lightheaded",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Heart pounding/racing",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Unsteady",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Terrified",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Nervous",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Feelings of choking",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Hands trembling",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Shaky",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Fear of losing control",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Difficulty breathing",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Fear of dying",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Scared",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Indigestion or discomfort in abdomen",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Faint",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Face flushed",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    },
+    {
+      "question": "Hot/cold sweats",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "Mildly: It did not bother me much"
+        },
+        {
+          "value": 2,
+          "text": "Moderately: It was very unpleasant, but I could stand it"
+        },
+        {
+          "value": 3,
+          "text": "Severely: I could barely stand it"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      63
+    ],
+    "interpretation": {
+      "0-7": "Minimal anxiety",
+      "8-15": "Mild anxiety",
+      "16-25": "Moderate anxiety",
+      "26-63": "Severe anxiety"
+    },
+    "recommendation": {
+      "0-7": "No specific action needed.",
+      "8-15": "Consider monitoring symptoms and stress management techniques.",
+      "16-25": "Seek advice from a healthcare professional.",
+      "26-63": "Strongly consider professional mental health support."
+    }
+  },
+  "frequency": {
+    "0": "0 days",
+    "1": "1-2 days",
+    "2": "3-4 days",
+    "3": "5-7 days"
+  }
+}

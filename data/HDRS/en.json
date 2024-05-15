@@ -1,0 +1,384 @@
+{
+  "name": "Hamilton Depression Rating Scale (HAM-D)",
+  "type": "Depression",
+  "items": [
+    {
+      "question": "1. Depressed Mood (sadness, hopeless, helpless, worthless)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent."
+        },
+        {
+          "value": 1,
+          "text": "These feeling states indicated only on questioning."
+        },
+        {
+          "value": 2,
+          "text": "These feeling states spontaneously reported verbally."
+        },
+        {
+          "value": 3,
+          "text": "Communicates feeling states non-verbally - i.e., through facial expression, posture, voice, and tendency to weep."
+        },
+        {
+          "value": 4,
+          "text": "Patient reports VIRTUALLY ONLY these feeling states in his spontaneous verbal and non-verbal communication."
+        }
+      ]
+    },
+    {
+      "question": "2. Feelings of Guilt",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent."
+        },
+        {
+          "value": 1,
+          "text": "Self-reproach, feels he has let people down."
+        },
+        {
+          "value": 2,
+          "text": "Ideas of guilt or rumination over past errors or sinful deeds."
+        },
+        {
+          "value": 3,
+          "text": "Present illness is a punishment. Delusions of guilt."
+        },
+        {
+          "value": 4,
+          "text": "Hears accusatory or denunciatory voices and/or experiences threatening visual hallucinations."
+        }
+      ]
+    },
+    {
+      "question": "3. Suicide",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent."
+        },
+        {
+          "value": 1,
+          "text": "Feels life is not worth living."
+        },
+        {
+          "value": 2,
+          "text": "Wishes he were dead or any thoughts of possible death to self."
+        },
+        {
+          "value": 3,
+          "text": "Ideas or gestures of suicide."
+        },
+        {
+          "value": 4,
+          "text": "Attempts at suicide (any serious attempt rates 4)."
+        }
+      ]
+    },
+    {
+      "question": "4. Insomnia: Early in the Night",
+      "options": [
+        {
+          "value": 0,
+          "text": "No difficulty falling asleep."
+        },
+        {
+          "value": 1,
+          "text": "Complains of occasional difficulty falling asleep - i.e., more than 1/2 hour."
+        },
+        {
+          "value": 2,
+          "text": "Complains of nightly difficulty falling asleep."
+        }
+      ]
+    },
+    {
+      "question": "5. Insomnia: Middle of the Night",
+      "options": [
+        {
+          "value": 0,
+          "text": "No difficulty."
+        },
+        {
+          "value": 1,
+          "text": "Patient complains of being restless and disturbed during the night."
+        },
+        {
+          "value": 2,
+          "text": "Waking during the night - any getting out of bed rates 2 (except for purposes of voiding)."
+        }
+      ]
+    },
+    {
+      "question": "6. Insomnia: Early Hours of the Morning",
+      "options": [
+        {
+          "value": 0,
+          "text": "No difficulty."
+        },
+        {
+          "value": 1,
+          "text": "Waking in early hours of the morning but goes back to sleep."
+        },
+        {
+          "value": 2,
+          "text": "Unable to fall asleep again if he gets out of bed."
+        }
+      ]
+    },
+    {
+      "question": "7. Work and Activities",
+      "options": [
+        {
+          "value": 0,
+          "text": "No difficulty."
+        },
+        {
+          "value": 1,
+          "text": "Thoughts and feelings of incapacity, fatigue or weakness related to activities, work or hobbies."
+        },
+        {
+          "value": 2,
+          "text": "Loss of interest in activity, hobbies or work - either directly reported by patient, or indirect in listlessness, indecision and vacillation (feels he has to push self to work or activities)."
+        },
+        {
+          "value": 3,
+          "text": "Decrease in actual time spent in activities or decrease in productivity. In hospital, rate 3 if patient does not spend at least three hours a day in activities (hospital job or hobbies) exclusive of ward chores."
+        },
+        {
+          "value": 4,
+          "text": "Stopped working because of present illness. In hospital, rate 4 if patient engages in no activities except ward chores, or if patient fails to perform ward chores unassisted."
+        }
+      ]
+    },
+    {
+      "question": "8. Retardation (slowness of thought and speech; impaired ability to concentrate; decreased motor activity)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Normal speech and thought."
+        },
+        {
+          "value": 1,
+          "text": "Slight retardation at interview."
+        },
+        {
+          "value": 2,
+          "text": "Obvious retardation at interview."
+        },
+        {
+          "value": 3,
+          "text": "Interview difficult."
+        },
+        {
+          "value": 4,
+          "text": "Complete stupor."
+        }
+      ]
+    },
+    {
+      "question": "9. Agitation",
+      "options": [
+        {
+          "value": 0,
+          "text": "None."
+        },
+        {
+          "value": 1,
+          "text": "Fidgetiness."
+        },
+        {
+          "value": 2,
+          "text": "Playing with hands, hair, etc."
+        },
+        {
+          "value": 3,
+          "text": "Moving about, can’t sit still."
+        },
+        {
+          "value": 4,
+          "text": "Hand wringing, nail biting, hair pulling, biting of lips."
+        }
+      ]
+    },
+    {
+      "question": "10. Anxiety: Psychological",
+      "options": [
+        {
+          "value": 0,
+          "text": "No difficulty."
+        },
+        {
+          "value": 1,
+          "text": "Subjective tension and irritability."
+        },
+        {
+          "value": 2,
+          "text": "Worrying about minor matters."
+        },
+        {
+          "value": 3,
+          "text": "Apprehensive attitude apparent in face or speech."
+        },
+        {
+          "value": 4,
+          "text": "Fears expressed without questioning."
+        }
+      ]
+    },
+    {
+      "question": "11. Anxiety: Somatic (physiological concomitants of anxiety: somatic, gastrointestinal, cardiovascular, respiratory, genitourinary, autonomic symptoms)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent."
+        },
+        {
+          "value": 1,
+          "text": "Mild."
+        },
+        {
+          "value": 2,
+          "text": "Moderate."
+        },
+        {
+          "value": 3,
+          "text": "Severe."
+        },
+        {
+          "value": 4,
+          "text": "Incapacitating."
+        }
+      ]
+    },
+    {
+      "question": "12. Somatic Symptoms: Gastrointestinal",
+      "options": [
+        {
+          "value": 0,
+          "text": "None."
+        },
+        {
+          "value": 1,
+          "text": "Loss of appetite but eating without encouragement. Heavy feelings in abdomen."
+        },
+        {
+          "value": 2,
+          "text": "Difficulty in eating without urging. Requests or requires laxatives or medication for bowels or medication for gastrointestinal symptoms."
+        }
+      ]
+    },
+    {
+      "question": "13. Somatic Symptoms: General",
+      "options": [
+        {
+          "value": 0,
+          "text": "None."
+        },
+        {
+          "value": 1,
+          "text": "Heaviness in limbs, back or head. Backaches, headache, muscle aches. Loss of energy and fatigability."
+        },
+        {
+          "value": 2,
+          "text": "Any clear-cut symptom rates 2."
+        }
+      ]
+    },
+    {
+      "question": "14. Genital Symptoms (symptoms such as loss of libido, menstrual disturbances)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent."
+        },
+        {
+          "value": 1,
+          "text": "Mild."
+        },
+        {
+          "value": 2,
+          "text": "Severe."
+        }
+      ]
+    },
+    {
+      "question": "15. Hypochondriasis",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not present."
+        },
+        {
+          "value": 1,
+          "text": "Self-absorption (bodily)."
+        },
+        {
+          "value": 2,
+          "text": "Preoccupation with health."
+        },
+        {
+          "value": 3,
+          "text": "Frequent complaints, requests for help, etc."
+        },
+        {
+          "value": 4,
+          "text": "Hypochondriacal delusions."
+        }
+      ]
+    },
+    {
+      "question": "16. Loss of Weight (rate either A or B)",
+      "options": [
+        {
+          "value": 0,
+          "text": "A. No weight loss."
+        },
+        {
+          "value": 1,
+          "text": "B. Probably weight loss associated with present illness."
+        },
+        {
+          "value": 2,
+          "text": "C. Definite (according to patient) weight loss."
+        }
+      ]
+    },
+    {
+      "question": "17. Insight",
+      "options": [
+        {
+          "value": 0,
+          "text": "No insight."
+        },
+        {
+          "value": 1,
+          "text": "Slight."
+        },
+        {
+          "value": 2,
+          "text": "Moderate."
+        },
+        {
+          "value": 3,
+          "text": "Good."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      52
+    ],
+    "interpretation": {
+      "0-7": "Normal",
+      "8-13": "Mild Depression",
+      "14-18": "Moderate Depression",
+      "19-22": "Severe Depression",
+      "23-52": "Very Severe Depression"
+    }
+  }
+}

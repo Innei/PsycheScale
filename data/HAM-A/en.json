@@ -1,0 +1,368 @@
+{
+  "name": "Hamilton Anxiety Rating Scale",
+  "type": "Anxiety Assessment",
+  "items": [
+    {
+      "question": "Anxious mood (worries, anticipation of the worst, fearful anticipation, irritability)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Tension (feeling of tension, fatigability, startle response, moved to tears easily, trembling, feelings of restlessness, inability to relax)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Fears (of dark, of strangers, of being left alone, of animals, of traffic, of crowds)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Insomnia (difficulty in falling asleep, broken sleep, unsatisfying sleep and fatigue on waking, dreams, nightmares, night terrors)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Intellectual (difficulty in concentration, poor memory)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Depressed mood (loss of interest, lack of pleasure in hobbies, depression, early waking, diurnal swing)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Somatic (muscular) (pains and aches, twitching, stiffness, myoclonic jerks, grinding of teeth, unsteady voice, increased muscular tone)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Somatic (sensory) (Tinnitus, blurring of vision, hot and cold flushes, feelings of weakness, pricking sensation)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Cardiovascular symptoms (tachycardia, palpitations, pain in chest, throbbing of vessels, fainting feelings, missing beat)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Respiratory symptoms (pressure or constriction in chest, choking feelings, sighing, dyspnea)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Gastrointestinal symptoms (difficulty in swallowing, wind, abdominal pain, burning sensations, abdominal fullness, nausea, vomiting, borborygmi, looseness of bowels, loss of weight, constipation)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Genitourinary symptoms (frequency of micturition, urgency of micturition, amenorrhea, menorrhagia, development of frigidity, loss of libido, impotence, premature ejaculation)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Autonomic symptoms (dry mouth, flushing, pallor, tendency to sweat, giddiness, tension headache, raising of hair)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    },
+    {
+      "question": "Behavior at interview (fidgeting, playing with hands, hair, biting lips, etc.)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild"
+        },
+        {
+          "value": 2,
+          "text": "Moderate"
+        },
+        {
+          "value": 3,
+          "text": "Severe"
+        },
+        {
+          "value": 4,
+          "text": "Very Severe"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      56
+    ],
+    "interpretation": {
+      "0-17": "Mild severity",
+      "18-24": "Mild to moderate severity",
+      "25-30": "Moderate to severe",
+      "31-56": "Very severe"
+    }
+  }
+}
