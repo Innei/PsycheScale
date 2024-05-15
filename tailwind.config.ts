@@ -1,6 +1,10 @@
-// eslint-disable-next-line import/no-anonymous-default-export
+import { addDynamicIconSelectors } from '@iconify/tailwind'
 export default {
-  plugins: [require('daisyui'), require('@tailwindcss/typography')],
+  plugins: [
+    require('daisyui'),
+    require('@tailwindcss/typography'),
+    addDynamicIconSelectors(),
+  ],
   content: [
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
     './node_modules/shiro-rc/dist/**/*.{js,ts,jsx,tsx,mdx}', // add this

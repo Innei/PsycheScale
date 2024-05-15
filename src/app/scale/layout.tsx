@@ -13,9 +13,10 @@ export default async ({ children }: PropsWithChildren) => {
     <div>
       <aside
         className={clsxm(
-          'flex flex-col gap-2 w-[220px] fixed overflow-auto inset-y-0',
+          'flex flex-col gap-2 fixed overflow-auto inset-y-0',
 
           'mt-24 p-4',
+          'w-[220px] hidden lg:block',
         )}
       >
         {scales.map(async (scale) => (
@@ -34,7 +35,9 @@ export default async ({ children }: PropsWithChildren) => {
           </Link>
         ))}
       </aside>
-      <div className="relative ml-[220px]">{children}</div>
+      <div className={clsxm('relative', 'lg:ml-[220px] px-5 lg:px-0')}>
+        {children}
+      </div>
     </div>
   )
 }
