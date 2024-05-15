@@ -4,6 +4,7 @@ import { useMemo, type FC } from 'react'
 import { getScaleAtom } from '../atoms'
 import { useAtomValue } from 'jotai'
 import { selectAtom } from 'jotai/utils'
+import { Divider } from 'shiro-rc'
 
 export const ScaleResult: FC<{
   scaleName: string
@@ -43,7 +44,8 @@ export const ScaleResult: FC<{
   )
 
   return (
-    <div>
+    <div className="mt-12">
+      <Divider className="scale-50" />
       <div>
         得分：{totalScore} / {currentPeriod}
       </div>

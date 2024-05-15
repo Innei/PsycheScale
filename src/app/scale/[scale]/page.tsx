@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises'
+import { readScaleFile } from '@/lib/scale-fs'
 import { notFound } from 'next/navigation'
 import { ScaleRadio } from './components/radio'
 import { ScaleResult } from './components/result'
@@ -10,10 +10,7 @@ export default async ({
     scale: string
   }
 }) => {
-  const content = await readFile(
-    process.cwd() + '/data/' + scale + '/zh.json',
-    'utf-8',
-  ).catch(() => null)
+  const content = await readScaleFile(scale)
 
   if (!content) notFound()
 
