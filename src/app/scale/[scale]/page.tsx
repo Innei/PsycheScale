@@ -34,6 +34,17 @@ export default async ({
         <h4>{parsedData.type}</h4>
 
         <section>
+          {parsedData.frequency &&
+            Object.values(parsedData.frequency).map((item, index) => {
+              return (
+                <div className="leading-loose text-sm" key={index}>
+                  {parsedData.items[0].options[index].text}: {item}
+                </div>
+              )
+            })}
+        </section>
+
+        <section>
           {parsedData.items.map((item, index) => (
             <div key={item.question}>
               <p className="font-bold">
@@ -70,6 +81,10 @@ export default async ({
           />
         </section>
       </div>
+
+      <footer className="mt-12 font-bold text-center">
+        加油，你一定会好起来的！
+      </footer>
     </div>
   )
 }
