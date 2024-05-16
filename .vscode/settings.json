@@ -1,3 +1,4 @@
 {
-  "eslint.experimental.useFlatConfig": false
+  "eslint.experimental.useFlatConfig": false,
+  "i18n-ally.localesPaths": "data/**/*"
 }

@@ -1,0 +1,281 @@
+{
+  "name": "Bech-Rafaelsen Mania Scale",
+  "type": "Mania Assessment",
+  "items": [
+    {
+      "question": "Increased activity (increased work, increased sexual activity, sociability, talking)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild or slight increase"
+        },
+        {
+          "value": 2,
+          "text": "Moderate increase"
+        },
+        {
+          "value": 3,
+          "text": "Marked increase"
+        },
+        {
+          "value": 4,
+          "text": "Severe increase, continuous and excessive activity"
+        }
+      ]
+    },
+    {
+      "question": "Speech (speed, amount, content)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Normal speech"
+        },
+        {
+          "value": 1,
+          "text": "Slight increase in speed or amount"
+        },
+        {
+          "value": 2,
+          "text": "Moderate increase in speed or amount, some pressure"
+        },
+        {
+          "value": 3,
+          "text": "Marked increase in speed or amount, pressure"
+        },
+        {
+          "value": 4,
+          "text": "Incoherent or irrelevant, difficult to interrupt"
+        }
+      ]
+    },
+    {
+      "question": "Flight of ideas (jumping from one topic to another, tangentiality)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional jumps"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent jumps"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent jumps"
+        },
+        {
+          "value": 4,
+          "text": "Severe, incoherent"
+        }
+      ]
+    },
+    {
+      "question": "Sleep (need for sleep, insomnia)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Normal sleep"
+        },
+        {
+          "value": 1,
+          "text": "Slight decrease in need for sleep"
+        },
+        {
+          "value": 2,
+          "text": "Moderate decrease in need for sleep"
+        },
+        {
+          "value": 3,
+          "text": "Marked decrease in need for sleep, sleeps only 2-3 hours per night"
+        },
+        {
+          "value": 4,
+          "text": "Severe decrease, no need for sleep"
+        }
+      ]
+    },
+    {
+      "question": "Irritability (mood instability, easy frustration)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent"
+        },
+        {
+          "value": 4,
+          "text": "Severe, continuous"
+        }
+      ]
+    },
+    {
+      "question": "Grandiosity (inflated self-esteem, unrealistic ideas of superiority)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent"
+        },
+        {
+          "value": 4,
+          "text": "Severe, continuous"
+        }
+      ]
+    },
+    {
+      "question": "Aggressiveness (verbal or physical)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent"
+        },
+        {
+          "value": 4,
+          "text": "Severe, continuous"
+        }
+      ]
+    },
+    {
+      "question": "Appearance (neatness, flamboyance)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Normal"
+        },
+        {
+          "value": 1,
+          "text": "Slightly flamboyant"
+        },
+        {
+          "value": 2,
+          "text": "Moderately flamboyant, noticeable"
+        },
+        {
+          "value": 3,
+          "text": "Markedly flamboyant, very noticeable"
+        },
+        {
+          "value": 4,
+          "text": "Severely flamboyant, extremely noticeable"
+        }
+      ]
+    },
+    {
+      "question": "Disinhibition (inappropriate behavior, lack of restraint)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent"
+        },
+        {
+          "value": 4,
+          "text": "Severe, continuous"
+        }
+      ]
+    },
+    {
+      "question": "Thought content (delusions, hallucinations)",
+      "options": [
+        {
+          "value": 0,
+          "text": "Absent"
+        },
+        {
+          "value": 1,
+          "text": "Mild, occasional"
+        },
+        {
+          "value": 2,
+          "text": "Moderate, frequent"
+        },
+        {
+          "value": 3,
+          "text": "Marked, very frequent"
+        },
+        {
+          "value": 4,
+          "text": "Severe, continuous"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      40
+    ],
+    "interpretation": {
+      "0-7": "No mania",
+      "8-15": "Mild mania",
+      "16-25": "Moderate mania",
+      "26-40": "Severe mania"
+    },
+    "recommendation": {
+      "0-7": "No specific action needed.",
+      "8-15": "Consider monitoring symptoms and stress management techniques.",
+      "16-25": "Seek advice from a healthcare professional.",
+      "26-40": "Immediate initiation of professional mental health support and possible pharmacotherapy."
+    }
+  },
+  "frequency": {
+    "0": "Absent",
+    "1": "Mild",
+    "2": "Moderate",
+    "3": "Marked",
+    "4": "Severe"
+  }
+}

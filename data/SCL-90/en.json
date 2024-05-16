@@ -1,0 +1,2031 @@
+{
+  "name": "Symptom Checklist-90",
+  "type": "Psychological Assessment",
+  "items": [
+    {
+      "question": "Headaches",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Nervousness or shakiness inside",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Repeated unpleasant thoughts",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Faintness or dizziness",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Loss of sexual interest or pleasure",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling critical of others",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "The idea that someone else can control your thoughts",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling others are to blame for most of your troubles",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Trouble remembering things",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Worried about sloppiness or carelessness",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling easily annoyed or irritated",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Pains in heart or chest",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling afraid in open spaces or on the streets",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Having to check and double-check what you do",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Difficulty making decisions",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling afraid to travel on buses, subways, or trains",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling afraid you will faint in public",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Having to avoid certain things, places, or activities because they frighten you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Your mind going blank",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Nausea or upset stomach",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Trouble getting your breath",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Hot or cold spells",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Numbness or tingling in parts of your body",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "A lump in your throat",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling hopeless about the future",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling weak in parts of your body",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling tense or keyed up",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Spells of terror or panic",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling so restless you couldn't sit still",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feelings of worthlessness",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people will take advantage of you if you let them",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling so nervous you couldn't sit still",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling blue",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling no interest in things",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling fearful",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that things are not real",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that your life is empty",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people do not understand you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that you are watched or talked about by others",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Having thoughts that are not your own",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Having to do things very slowly to ensure correctness",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing muscle twitches or other involuntary movements",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling suddenly scared for no reason",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing temper outbursts that you could not control",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing trouble concentrating",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling like everything is an effort",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that you are not as good as others",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling lonely",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing upset stomach or indigestion",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling a loss of sexual interest or pleasure",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling easily annoyed or irritated",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling afraid in open spaces or on the streets",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling a need for constant reassurance",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing numbness or tingling in parts of your body",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling hot or cold spells",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling hopeless about the future",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing trouble remembering things",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling a lump in your throat",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling tense or keyed up",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling no interest in things",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing muscle twitches or other involuntary movements",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling a need for constant reassurance",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling so restless you couldn't sit still",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing trouble concentrating",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that you are not as good as others",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling like everything is an effort",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling lonely",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling blue",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling easily annoyed or irritated",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling hopeless about the future",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling afraid to travel on buses, subways, or trains",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling so restless you couldn't sit still",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling so nervous you couldn't sit still",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Feeling that people are unfriendly or dislike you",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    },
+    {
+      "question": "Experiencing trouble concentrating",
+      "options": [
+        {
+          "value": 0,
+          "text": "Not at all"
+        },
+        {
+          "value": 1,
+          "text": "A little bit"
+        },
+        {
+          "value": 2,
+          "text": "Moderately"
+        },
+        {
+          "value": 3,
+          "text": "Quite a bit"
+        },
+        {
+          "value": 4,
+          "text": "Extremely"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      360
+    ],
+    "interpretation": {
+      "0-90": "Normal range",
+      "91-180": "Mildly symptomatic",
+      "181-270": "Moderately symptomatic",
+      "271-360": "Severely symptomatic"
+    },
+    "recommendation": {
+      "0-90": "No specific action needed.",
+      "91-180": "Consider monitoring symptoms and stress management techniques.",
+      "181-270": "Seek advice from a healthcare professional.",
+      "271-360": "Strongly consider professional mental health support."
+    }
+  },
+  "frequency": {
+    "0": "Not at all",
+    "1": "A little bit",
+    "2": "Moderately",
+    "3": "Quite a bit",
+    "4": "Extremely"
+  }
+}

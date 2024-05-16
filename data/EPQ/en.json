@@ -1,0 +1,1040 @@
+{
+  "name": "Eysenck Personality Questionnaire",
+  "type": "Personality Assessment",
+  "items": [
+    {
+      "question": "Do you often have mood swings?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Are you a talkative person?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to keep things neat and tidy?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel 'fed-up'?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like the company of others?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer to have few but close friends?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often worry about things?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to take charge in social situations?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel lonely?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy attending large parties?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel nervous?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to plan things in advance?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy taking risks?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel 'tense'?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to have a lot of people around you?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel sad?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy going to new places?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you find it easy to talk to strangers?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel anxious?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer to be alone?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to follow a schedule?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being the center of attention?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel hopeless?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to spend your free time alone?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel uncomfortable in social situations?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer a quiet evening to a party?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to meet new people?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel frustrated?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to try new things?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel tired?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy talking to people?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel guilty?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to take risks?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel depressed?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being with others?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel upset?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to plan your activities?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel nervous about the future?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy large social gatherings?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel uncomfortable in crowded places?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer to be in the background?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to take it easy?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel restless?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being the life of the party?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel bored?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to keep busy?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel irritable?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy meeting new people?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel unwell?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to have a lot of activities going on?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel confused?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being active?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel overwhelmed?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy taking part in social activities?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel misunderstood?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be busy?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that life is meaningless?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to try new experiences?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that you are not good enough?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy having a lot of friends?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that you have no energy?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be in control?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that people are against you?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being with a lot of people?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel overwhelmed by your responsibilities?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be in charge?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel misunderstood by others?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be the leader?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that you are not appreciated?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being the center of attention?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that people do not understand you?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be in social situations?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that you are not respected?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy being the focus of attention?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that people do not listen to you?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you like to be the life of the party?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you often feel that people do not appreciate you?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Do you enjoy having a lot of activities going on?",
+      "options": [
+        {
+          "value": 1,
+          "text": "Yes"
+        },
+        {
+          "value": 0,
+          "text": "No"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "range": [
+      0,
+      100
+    ],
+    "interpretation": {
+      "0-33": "Low trait presence",
+      "34-66": "Moderate trait presence",
+      "67-100": "High trait presence"
+    },
+    "recommendation": {
+      "0-33": "No specific action needed.",
+      "34-66": "Consider monitoring personality traits.",
+      "67-100": "Seek advice from a psychological professional if traits are impacting daily life."
+    }
+  },
+  "frequency": {
+    "0": "No",
+    "1": "Yes"
+  }
+}
