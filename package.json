@@ -9,28 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dexie": "4.0.4",
+    "dexie": "4.0.7",
     "framer-motion": "^11.1.9",
-    "jotai": "2.8.0",
-    "next": "14.2.3",
+    "jotai": "2.8.3",
+    "next": "14.2.4",
     "next-themes": "^0.3.0",
-    "openai": "4.47.1",
+    "openai": "4.47.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@iconify-json/mingcute": "1.1.17",
+    "@iconify-json/mingcute": "1.1.18",
     "@iconify/tailwind": "1.1.1",
     "@tailwindcss/typography": "0.5.13",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.12.14",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "daisyui": "^4.10.5",
     "eslint": "^8.57.0",
-    "eslint-config-next": "14.2.3",
+    "eslint-config-next": "14.2.4",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3",
+    "tailwindcss": "^3.4.4",
     "typescript": "^5.4.5"
   }
 }
