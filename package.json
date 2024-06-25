@@ -23,7 +23,7 @@
     "@iconify-json/mingcute": "1.1.18",
     "@iconify/tailwind": "1.1.1",
     "@tailwindcss/typography": "0.5.13",
-    "@types/node": "^20.14.8",
+    "@types/node": "^20.14.9",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "daisyui": "^4.10.5",
