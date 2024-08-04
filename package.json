@@ -20,7 +20,7 @@
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@iconify-json/mingcute": "1.1.18",
+    "@iconify-json/mingcute": "1.1.19",
     "@iconify/tailwind": "1.1.2",
     "@tailwindcss/typography": "0.5.13",
     "@types/node": "^20.14.14",
