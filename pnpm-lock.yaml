@@ -34,7 +34,7 @@ importers:
         version: 18.2.0(react@18.2.0)
       shiro-rc:
         specifier: ^0.0.10
-        version: 0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.44)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.10)
+        version: 0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.45)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.10)
     devDependencies:
       '@iconify-json/mingcute':
         specifier: 1.1.20
@@ -56,7 +56,7 @@ importers:
         version: 18.2.25
       daisyui:
         specifier: ^4.10.5
-        version: 4.10.5(postcss@8.4.44)
+        version: 4.10.5(postcss@8.4.45)
       eslint:
         specifier: ^8.57.0
         version: 8.57.0
@@ -64,8 +64,8 @@ importers:
         specifier: 14.2.7
         version: 14.2.7(eslint@8.57.0)(typescript@5.4.5)
       postcss:
-        specifier: ^8.4.44
-        version: 8.4.44
+        specifier: ^8.4.45
+        version: 8.4.45
       tailwindcss:
         specifier: ^3.4.10
         version: 3.4.10
@@ -1691,8 +1691,8 @@ packages:
     resolution: {integrity: sha512-PS08Iboia9mts/2ygV3eLpY5ghnUcfLV/EXTOW1E2qYxJKGGBUtNjN76FYHnMs36RmARn41bC0AZmn+rR0OVpQ==}
     engines: {node: ^10 || ^12 || >=14}
 
-  postcss@8.4.44:
-    resolution: {integrity: sha512-Aweb9unOEpQ3ezu4Q00DPvvM2ZTUitJdNKeP/+uQgr1IBIqu574IaZoURId7BKtWMREwzKa9OgzPzezWGPWFQw==}
+  postcss@8.4.45:
+    resolution: {integrity: sha512-7KTLTdzdZZYscUc65XmjFiB73vBhBfbPztCYdUNvlaso9PrzjzcmjqBPR0lNGkcVlcO4BjiO5rK/qNz+XAen1Q==}
     engines: {node: ^10 || ^12 || >=14}
 
   prelude-ls@1.2.1:
@@ -2819,21 +2819,21 @@ snapshots:
 
   culori@3.3.0: {}
 
-  daisyui@4.10.5(postcss@8.4.44):
+  daisyui@4.10.5(postcss@8.4.45):
     dependencies:
       css-selector-tokenizer: 0.8.0
       culori: 3.3.0
       picocolors: 1.0.0
-      postcss-js: 4.0.1(postcss@8.4.44)
+      postcss-js: 4.0.1(postcss@8.4.45)
     transitivePeerDependencies:
       - postcss
 
-  daisyui@4.7.2(postcss@8.4.44):
+  daisyui@4.7.2(postcss@8.4.45):
     dependencies:
       css-selector-tokenizer: 0.8.0
       culori: 3.3.0
       picocolors: 1.0.1
-      postcss-js: 4.0.1(postcss@8.4.44)
+      postcss-js: 4.0.1(postcss@8.4.45)
     transitivePeerDependencies:
       - postcss
 
@@ -3805,28 +3805,28 @@ snapshots:
 
   possible-typed-array-names@1.0.0: {}
 
-  postcss-import@15.1.0(postcss@8.4.44):
+  postcss-import@15.1.0(postcss@8.4.45):
     dependencies:
-      postcss: 8.4.44
+      postcss: 8.4.45
       postcss-value-parser: 4.2.0
       read-cache: 1.0.0
       resolve: 1.22.8
 
-  postcss-js@4.0.1(postcss@8.4.44):
+  postcss-js@4.0.1(postcss@8.4.45):
     dependencies:
       camelcase-css: 2.0.1
-      postcss: 8.4.44
+      postcss: 8.4.45
 
-  postcss-load-config@4.0.2(postcss@8.4.44):
+  postcss-load-config@4.0.2(postcss@8.4.45):
     dependencies:
       lilconfig: 3.1.1
       yaml: 2.4.1
     optionalDependencies:
-      postcss: 8.4.44
+      postcss: 8.4.45
 
-  postcss-nested@6.0.1(postcss@8.4.44):
+  postcss-nested@6.0.1(postcss@8.4.45):
     dependencies:
-      postcss: 8.4.44
+      postcss: 8.4.45
       postcss-selector-parser: 6.0.16
 
   postcss-selector-parser@6.0.10:
@@ -3847,7 +3847,7 @@ snapshots:
       picocolors: 1.0.1
       source-map-js: 1.2.0
 
-  postcss@8.4.44:
+  postcss@8.4.45:
     dependencies:
       nanoid: 3.3.7
       picocolors: 1.0.1
@@ -4007,14 +4007,14 @@ snapshots:
     dependencies:
       '@shikijs/core': 1.2.0
 
-  shiro-rc@0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.44)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.10):
+  shiro-rc@0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.45)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.10):
     dependencies:
       '@floating-ui/react-dom': 2.0.8(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@radix-ui/react-scroll-area': 1.0.5(@types/react-dom@18.2.25)(@types/react@18.2.79)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@radix-ui/react-select': 2.0.0(@types/react-dom@18.2.25)(@types/react@18.2.79)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@shikijs/transformers': 1.2.0
       clsx: 2.1.0
-      daisyui: 4.7.2(postcss@8.4.44)
+      daisyui: 4.7.2(postcss@8.4.45)
       dayjs: 1.11.10
       framer-motion: 11.1.9(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       jotai: 2.7.1(@types/react@18.2.79)(react@18.2.0)
@@ -4149,11 +4149,11 @@ snapshots:
       normalize-path: 3.0.0
       object-hash: 3.0.0
       picocolors: 1.0.1
-      postcss: 8.4.44
-      postcss-import: 15.1.0(postcss@8.4.44)
-      postcss-js: 4.0.1(postcss@8.4.44)
-      postcss-load-config: 4.0.2(postcss@8.4.44)
-      postcss-nested: 6.0.1(postcss@8.4.44)
+      postcss: 8.4.45
+      postcss-import: 15.1.0(postcss@8.4.45)
+      postcss-js: 4.0.1(postcss@8.4.45)
+      postcss-load-config: 4.0.2(postcss@8.4.45)
+      postcss-nested: 6.0.1(postcss@8.4.45)
       postcss-selector-parser: 6.0.16
       resolve: 1.22.8
       sucrase: 3.35.0
