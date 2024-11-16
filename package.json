@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dexie": "4.0.9",
+    "dexie": "4.0.10",
     "framer-motion": "^11.1.9",
     "jotai": "2.8.4",
     "next": "14.2.18",
