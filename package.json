@@ -24,7 +24,7 @@
     "@iconify/tailwind": "1.1.3",
     "@tailwindcss/typography": "0.5.15",
     "@types/node": "^20.17.10",
-    "@types/react": "^18.3.16",
+    "@types/react": "^18.3.17",
     "@types/react-dom": "^18.3.5",
     "daisyui": "^4.12.22",
     "eslint": "^8.57.1",
