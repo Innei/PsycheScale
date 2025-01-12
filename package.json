@@ -25,7 +25,7 @@
     "@tailwindcss/typography": "0.5.16",
     "@types/node": "^20.17.12",
     "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
+    "@types/react-dom": "^19.0.3",
     "daisyui": "^4.12.23",
     "eslint": "^8.57.1",
     "eslint-config-next": "14.2.23",
