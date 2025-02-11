@@ -12,7 +12,7 @@
     "dexie": "4.0.11",
     "framer-motion": "^11.12.0",
     "jotai": "2.8.4",
-    "next": "14.2.23",
+    "next": "14.2.24",
     "next-themes": "^0.3.0",
     "openai": "4.47.3",
     "react": "^18.3.1",
@@ -28,7 +28,7 @@
     "@types/react-dom": "^18.3.5",
     "daisyui": "^4.12.23",
     "eslint": "^8.57.1",
-    "eslint-config-next": "14.2.23",
+    "eslint-config-next": "14.2.24",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.7.3"
