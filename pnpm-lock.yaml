@@ -46,8 +46,8 @@ importers:
         specifier: 0.5.16
         version: 0.5.16(tailwindcss@3.4.17)
       '@types/node':
-        specifier: ^20.17.58
-        version: 20.19.9
+        specifier: ^20.19.11
+        version: 20.19.11
       '@types/react':
         specifier: ^18.3.24
         version: 18.3.24
@@ -551,8 +551,8 @@ packages:
   '@types/node@18.19.121':
     resolution: {integrity: sha512-bHOrbyztmyYIi4f1R0s17QsPs1uyyYnGcXeZoGEd227oZjry0q6XQBQxd82X1I57zEfwO8h9Xo+Kl5gX1d9MwQ==}
 
-  '@types/node@20.19.9':
-    resolution: {integrity: sha512-cuVNgarYWZqxRJDQHEB58GEONhOK79QVR/qYx4S7kcUObQvUwvFnYxJuuHUKm2aieN9X3yZB4LZsuYNU1Qphsw==}
+  '@types/node@20.19.11':
+    resolution: {integrity: sha512-uug3FEEGv0r+jrecvUUpbY8lLisvIjg6AAic6a2bSP5OEOLeJsDSnvhCDov7ipFFMXS3orMpzlmi0ZcuGkBbow==}
 
   '@types/prop-types@15.7.15':
     resolution: {integrity: sha512-F6bEyamV9jKGAFBEmlQnesRPGOQqS2+Uwi0Em15xenOxHaf2hv6L8YCVn3rPdPJOiJfPiCnLIRyvwVaqMY3MIw==}
@@ -2766,14 +2766,14 @@ snapshots:
 
   '@types/node-fetch@2.6.13':
     dependencies:
-      '@types/node': 20.19.9
+      '@types/node': 20.19.11
       form-data: 4.0.4
 
   '@types/node@18.19.121':
     dependencies:
       undici-types: 5.26.5
 
-  '@types/node@20.19.9':
+  '@types/node@20.19.11':
     dependencies:
       undici-types: 6.21.0
 
