@@ -55,8 +55,8 @@ importers:
         specifier: ^18.3.7
         version: 18.3.7(@types/react@18.3.25)
       daisyui:
-        specifier: ^4.12.24
-        version: 4.12.24(postcss@8.5.6)
+        specifier: ^5.5.14
+        version: 5.5.14
       eslint:
         specifier: ^8.57.1
         version: 8.57.1
@@ -930,13 +930,12 @@ packages:
     resolution: {integrity: sha512-pHJg+jbuFsCjz9iclQBqyL3B2HLCBF71BwVNujUYEvCeQMvV97R59MNK3R2+jgJ3a1fcZgI9B3vYgz8lzr/BFQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
-  daisyui@4.12.24:
-    resolution: {integrity: sha512-JYg9fhQHOfXyLadrBrEqCDM6D5dWCSSiM6eTNCRrBRzx/VlOCrLS8eDfIw9RVvs64v2mJdLooKXY8EwQzoszAA==}
-    engines: {node: '>=16.9.0'}
-
   daisyui@4.7.2:
     resolution: {integrity: sha512-9UCss12Zmyk/22u+JbkVrHHxOzFOyY17HuqP5LeswI4hclbj6qbjJTovdj2zRy8cCH6/n6Wh0lTLjriGnyGh0g==}
     engines: {node: '>=16.9.0'}
+
+  daisyui@5.5.14:
+    resolution: {integrity: sha512-L47rvw7I7hK68TA97VB8Ee0woHew+/ohR6Lx6Ah/krfISOqcG4My7poNpX5Mo5/ytMxiR40fEaz6njzDi7cuSg==}
 
   damerau-levenshtein@1.0.8:
     resolution: {integrity: sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==}
@@ -3158,15 +3157,6 @@ snapshots:
 
   culori@3.3.0: {}
 
-  daisyui@4.12.24(postcss@8.5.6):
-    dependencies:
-      css-selector-tokenizer: 0.8.0
-      culori: 3.3.0
-      picocolors: 1.1.1
-      postcss-js: 4.0.1(postcss@8.5.6)
-    transitivePeerDependencies:
-      - postcss
-
   daisyui@4.7.2(postcss@8.5.6):
     dependencies:
       css-selector-tokenizer: 0.8.0
@@ -3175,6 +3165,8 @@ snapshots:
       postcss-js: 4.0.1(postcss@8.5.6)
     transitivePeerDependencies:
       - postcss
+
+  daisyui@5.5.14: {}
 
   damerau-levenshtein@1.0.8: {}
 
