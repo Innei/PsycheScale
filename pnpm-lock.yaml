@@ -64,7 +64,7 @@ importers:
         specifier: 14.2.35
         version: 14.2.35(eslint@8.57.1(supports-color@7.2.0))(supports-color@7.2.0)(typescript@5.8.3)
       postcss:
-        specifier: ^8.5.24
+        specifier: ^8.5.25
         version: 8.5.25
       tailwindcss:
         specifier: ^3.4.19
